@@ -13,8 +13,6 @@ Skills and techniques we have used in this project is our experience with C# and
 ## Step Checklist
 [Link to our Checklist](https://docs.google.com/document/d/1K6yPv-q_4hQxa8Fr6GaolzB33bLvotretiY5wZ42tYQ/edit?usp=sharing)
 
-## Reflection
-
 ## Tutorials used
 [https://www.youtube.com/watch?v=EIJk5KYzSJM&list=PLgXA5L5ma2Bveih0btJV58REE2mzfQLOQ]
 [https://www.youtube.com/watch?v=ApLXuMeSVOI]
